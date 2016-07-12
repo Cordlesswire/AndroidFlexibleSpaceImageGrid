@@ -1,4 +1,4 @@
-package com.delaroystudios.flexiblespacetoolbarscroll;
+package com.delaroystudios.flexiblespacetoolimagegrid;
 
 /**
  * Created by delaroystudios on 7/11/2016.
